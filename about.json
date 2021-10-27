@@ -1,0 +1,8 @@
+{
+  "name": "Discourse Topics Hider",
+  "component": true,
+  "about_url": "https://github.com/jumagura/discourse-topics-hider",
+  "authors": "Juan Marcos Gutierrez",
+  "theme_version": "0.1",
+  "license_url": "https://raw.githubusercontent.com/jumagura/discourse-topics-hider/master/LICENSE"
+}
