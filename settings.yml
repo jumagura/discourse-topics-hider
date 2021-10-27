@@ -1,0 +1,5 @@
+category_boxes:
+  default: ""
+  type: list
+  list_type: category
+  description: "Select which category topics you would like to hide."
