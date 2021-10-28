@@ -1,7 +1,15 @@
 $boxes: str-split($category_boxes, "|");
 
 @each $box in $boxes {
-  .category-#{$box} {
+  body.category-#{$box} {
+    #list-area {
+      display: none;
+    }
+    #create-topic {
+      display: none;
+    }
+  }
+  [class$="#{$box}"] {
     #list-area {
       display: none;
     }
@@ -10,3 +18,17 @@ $boxes: str-split($category_boxes, "|");
     }
   }
 }
+
+// style to watch what is inside $boxes
+// body {
+//   &:after {
+//     content: "#{$boxes}" !important;
+//     display: block;
+//     background: salmon;
+//     color: white;
+//     position: fixed;
+//     left: 0;
+//     top: 0;
+//     z-index: 99999999;
+//   }
+// }
