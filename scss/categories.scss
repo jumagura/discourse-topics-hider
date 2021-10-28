@@ -1,7 +1,7 @@
 $boxes: str-split($category_boxes, "|");
 
 @each $box in $boxes {
-  [class$="#{$box}"] {
+  body[class$="#{$box}"] {
     #list-area {
       display: none;
     }
