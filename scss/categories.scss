@@ -9,7 +9,7 @@ $boxes: str-split($category_boxes, "|");
       display: none;
     }
   }
-  [class$="#{$box}"] {
+  &[class$="#{$box}"] {
     #list-area {
       display: none;
     }
