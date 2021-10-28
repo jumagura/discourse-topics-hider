@@ -10,7 +10,7 @@ If you want the user to create topics inside subcategories and not in the main c
 ## General Info
 
 🔌 **Plugin Name:** [Discourse Topic Hider](https://github.com/jumagura/discourse-topics-hider)<br>
-🧑‍💻 **Author:** [Keegan George](https://github.com/jumagura/)<br>
+🧑‍💻 **Author:** [Juan M. Gutierrez](https://github.com/jumagura/)<br>
 #️⃣ **Version: 0.1**<br>
 
 ❓ [Installing Theme Components](https://meta.discourse.org/t/how-do-i-install-a-theme-or-theme-component/63682) <br>
