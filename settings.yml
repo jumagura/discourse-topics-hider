@@ -1,5 +1,5 @@
 category_boxes:
   default: ""
   type: list
-  # list_type: category
+  list_type: category
   description: "Enter the category slugs for each category you would like to hide topics."
