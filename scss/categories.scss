@@ -8,7 +8,7 @@ $boxes: str-split($category_boxes, "|");
     #create-topic {
       display: none;
     }
-    #header-list-area .has-topics {
+    #header-list-area .show-more {
       display: none;
     }
   }
@@ -19,7 +19,7 @@ $boxes: str-split($category_boxes, "|");
     #create-topic {
       display: none;
     }
-    #header-list-area .has-topics {
+    #header-list-area .show-more {
       display: none;
     }
   }
