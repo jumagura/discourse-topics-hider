@@ -8,12 +8,18 @@ $boxes: str-split($category_boxes, "|");
     #create-topic {
       display: none;
     }
+    #header-list-area .show-more {
+      display: none;
+    }
   }
   &[class$="#{$box}"] {
     #list-area {
       display: none;
     }
     #create-topic {
+      display: none;
+    }
+    #header-list-area .show-more {
       display: none;
     }
   }
